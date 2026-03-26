@@ -2,11 +2,11 @@
 
 ## List of Certifications By Microsoft
 
+- [Beginner's Guide to C# Fundamentals](https://www.coursera.org/professional-certificates/beginners-guide-to-c-sharp-fundamentals)
 - [Microsoft Front-End Developer](https://www.coursera.org/professional-certificates/microsoft-front-end-developer)
 - [Microsoft Back-End Developer](https://www.coursera.org/professional-certificates/microsoft-back-end-developer)
-- [Microsoft ASP.NET Core Developer](https://www.coursera.org/professional-certificates/microsoft-aspnet-core-developer)
-- [Beginner's Guide to C# Fundamentals](https://www.coursera.org/professional-certificates/beginners-guide-to-c-sharp-fundamentals)
 - [Microsoft Full-Stack Developer](https://www.coursera.org/professional-certificates/microsoft-full-stack-developer)
+- [Microsoft ASP.NET Core Developer](https://www.coursera.org/professional-certificates/microsoft-aspnet-core-developer)
 - [Microsoft SQL Server](https://www.coursera.org/professional-certificates/microsoft-sql-server)
 
 ## Certification & Courses
